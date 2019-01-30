@@ -1,4 +1,4 @@
-# farm-adj-noun [![Build Status](https://travis-ci.org/btford/farm-adj-noun.svg?branch=master)](https://travis-ci.org/btford/farm-adj-noun)
+# farm-adj-noun
 
 Gives you a random farm-adj-noun pair that you can use as a unique identifier.
 Great for generating readable URLs.
