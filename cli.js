@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var data = require('./data.json');
-var adjNoun = require('./adj-noun');
+var adjNoun = require('./farm-adj-noun');
 
 var items = parseInt(process.argv[2], 10) || 1;
 

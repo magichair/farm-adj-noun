@@ -1,5 +1,5 @@
 var assert = require('assert')
-var adjNoun = require('./adj-noun');
+var adjNoun = require('./farm-adj-noun');
 
 assert(adjNoun.seed(123));
 

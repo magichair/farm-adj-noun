@@ -1,18 +1,18 @@
-# adj-noun [![Build Status](https://travis-ci.org/btford/adj-noun.svg?branch=master)](https://travis-ci.org/btford/adj-noun)
+# farm-adj-noun [![Build Status](https://travis-ci.org/btford/farm-adj-noun.svg?branch=master)](https://travis-ci.org/btford/farm-adj-noun)
 
-Gives you a random adj-noun pair that you can use as a unique identifier.
+Gives you a random farm-adj-noun pair that you can use as a unique identifier.
 Great for generating readable URLs.
 
 ## Install
 
 ```shell
-$ npm install adj-noun
+$ npm install farm-adj-noun
 ```
 
 ## Use
 
 ```javascript
-var adjNoun = require('adj-noun');
+var adjNoun = require('farm-adj-noun');
 
 // seed it so your pairs are different than someone else using this lib
 adjNoun.seed(123);
@@ -55,14 +55,14 @@ $ npm install -g
 Then you can:
 
 ```shell
-$ adj-noun
+$ farm-adj-noun
 royal-haircut
 ```
 
 You can also specify the number of unique names to generate:
 
 ```shell
-$ adj-noun 5
+$ farm-adj-noun 5
 unlined octet
 luckier gospel
 wordy shading

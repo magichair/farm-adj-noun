@@ -1,8 +1,8 @@
 {
-  "name": "adj-noun",
+  "name": "farm-adj-noun",
   "version": "0.1.1",
-  "description": "Gives you a random adj-noun pair that you can use as a unique identifier",
-  "main": "adj-noun.js",
+  "description": "Gives you a random adj-noun pair that you can use as a unique identifier related to farming",
+  "main": "farm-adj-noun.js",
   "scripts": {
     "test": "node test.js"
   },
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/btford/adj-noun.git"
+    "url": "https://github.com/magichair/farm-adj-noun.git"
   },
   "keywords": [
     "identifier",
@@ -19,12 +19,10 @@
     "english",
     "slug",
     "adjective",
-    "noun"
+    "noun",
+    "farm"
   ],
-  "author": "Brian Ford <btford@umich.edu>",
+  "author": "John Ibsen <jibsen@indigoag.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/btford/adj-noun/issues"
-  },
-  "homepage": "https://github.com/btford/adj-noun"
+  "homepage": "https://github.com/magichair/farm-adj-noun"
 }
