@@ -7,7 +7,7 @@
     "test": "node test.js"
   },
   "bin": {
-    "adj-noun": "cli.js"
+    "farm-adj-noun": "cli.js"
   },
   "repository": {
     "type": "git",
