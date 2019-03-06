@@ -75,10 +75,11 @@ It randomly seeds between runs with `Math.random()`.
 
 ## Word list
 
-The script for generating the word list uses [NLTK](http://www.nltk.org/).
+The script for generating the word list uses [Datamuse](https://www.datamuse.com/api/).
 See `scripts/data.py` for more.
 
 ## See Also
+* [adj-noun](https://github.com/btford/adj-noun)
 * [cat-names](https://github.com/sindresorhus/cat-names)
 * [dog-names](https://github.com/sindresorhus/dog-names)
 * [dragon-names](https://github.com/kraihn/dragon-names)
